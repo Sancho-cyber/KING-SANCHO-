@@ -1,11 +1,11 @@
-### EMMY_HENZ-V3 WHATSAPP BOT🔥
+### SANGO-BOY WHATSAPP BOT🔥
 
 --------
 
 <p align="center">
-<a href="https://github.com/EMMYHENZ-TECH"><img title="Author" src="https://i.ibb.co/7XTnzx9/IMG-20240927-WA0011.jpg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/S.A.N.C.H.O-TECH"><img title="Author" src="https://i.ibb.co/7XTnzx9/IMG-20240927-WA0011.jpg?style=for-the-badge&logo=github"></a>
 
-EMMY_HENZ-V3  is a Cool Multi-Device WhatsApp bot developed by [EMMY HENZ](https://github.com/EMMYHENZ-TECH). It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
+SANGO BOY  is a Cool Multi-Device WhatsApp bot developed by [EMMY HENZ](https://github.com/EMMYHENZ-TECH). It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
 
 --------
 
@@ -103,3 +103,8 @@ npm start
 - Use at your own risk by keeping this warning in mind.
 
  <br><br>
+
+
+
+S.A.N.C.HO OFFICIAL
+     DEV😈
